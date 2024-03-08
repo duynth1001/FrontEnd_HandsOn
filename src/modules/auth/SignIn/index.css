@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "Hacked-KerX";   /*Can be any text*/
+    src: local("AirbnbCerealLight"),
+      url("../../../fonts/Hacked-KerX.ttf") format("truetype");
+  }
